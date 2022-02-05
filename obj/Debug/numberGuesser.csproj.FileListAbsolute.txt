@@ -1,0 +1,7 @@
+C:\Users\salaa\OneDrive\Documents\Visual Studio 2022\Projects\numberGuesser\bin\Debug\numberGuesser.exe.config
+C:\Users\salaa\OneDrive\Documents\Visual Studio 2022\Projects\numberGuesser\bin\Debug\numberGuesser.exe
+C:\Users\salaa\OneDrive\Documents\Visual Studio 2022\Projects\numberGuesser\bin\Debug\numberGuesser.pdb
+C:\Users\salaa\OneDrive\Documents\Visual Studio 2022\Projects\numberGuesser\obj\Debug\numberGuesser.csproj.SuggestedBindingRedirects.cache
+C:\Users\salaa\OneDrive\Documents\Visual Studio 2022\Projects\numberGuesser\obj\Debug\numberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\salaa\OneDrive\Documents\Visual Studio 2022\Projects\numberGuesser\obj\Debug\numberGuesser.exe
+C:\Users\salaa\OneDrive\Documents\Visual Studio 2022\Projects\numberGuesser\obj\Debug\numberGuesser.pdb

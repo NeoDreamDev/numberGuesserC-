@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be7d57b8-c972-4c0a-855c-83cbbad080ed": {
+      "ProjectGuid": "be7d57b8-c972-4c0a-855c-83cbbad080ed",
+      "DisplayName": "numberGuesser",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
